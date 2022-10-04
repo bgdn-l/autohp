@@ -1,0 +1,64 @@
+3-Iodo-2-propynyl N-butylcarbamate 
+H statements: 
+Harmful if swallowed. May cause an allergic skin reaction. Causes serious eye damage. Toxic if inhaled. Causes damage to organs through prolonged or repeated exposure. Very toxic to aquatic life with long lasting effects. 
+P statements: 
+Avoid release to the environment. Wear protective gloves/protective clothing/eye protection/face protection. IF SWALLOWED: Call a POISON CENTER or doctor/physician if you feel unwell. IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing. Call a POISON CENTER or doctor/physician. IF IN EYES: Rinse cautiously with water for several min. Remove contact lenses, if present and easy to do. Continue rinsing. Get medical advice/attention if you feel unwell. 
+
+N-bromosuccinimide 
+H statements: 
+May intensify fire; oxidiser. May be corrosive to metals. Causes skin irritation. May cause an allergic skin reaction. Causes serious eye irritation. Suspected of causing genetic defects. Very toxic to aquatic life. 
+P statements: 
+Keep away from heat/sparks/open flames/hot surfaces — No smoking. Avoid release to the environment. Wear protective gloves/protective clothing/eye protection/face protection. IF ON SKIN: Wash with plenty of soap and water. IF IN EYES: Rinse cautiously with water for several min. Remove contact lenses, if present and easy to do. Continue rinsing. IF exposed or concerned: Get medical advice/attention. 
+
+methanol 
+H statements: 
+Highly flammable liquid and vapour. Toxic if swallowed. Toxic in contact with skin. Toxic if inhaled. Causes damage to organs. 
+P statements: 
+Keep away from heat/sparks/open flames/hot surfaces — No smoking. Keep container tightly closed. Wear protective gloves/protective clothing/eye protection/face protection. IF SWALLOWED: Immediately call a POISON CENTER or doctor/physician. IF ON SKIN (or hair): Remove/Take off immediately all contaminated clothing. Rinse skin with water/shower. IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing. Call a POISON CENTER or doctor/physician. 
+
+Pyrrolidine 
+H statements: 
+Highly flammable liquid and vapour. Harmful if swallowed. Harmful if inhaled. Causes severe skin burns and eye damage. 
+P statements: 
+Keep away from heat/sparks/open flames/hot surfaces — No smoking. Wear protective gloves/protective clothing/eye protection/face protection. IF SWALLOWED: Call a POISON CENTER or doctor/physician if you feel unwell. IF ON SKIN (or hair): Remove/Take off immediately all contaminated clothing. Rinse skin with water/shower. IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing. Immediately call a POISON CENTER or doctor/physician. IF IN EYES: Rinse cautiously with water for several min. Remove contact lenses, if present and easy to do. Continue rinsing. 
+
+N-hexane 
+H statements: 
+Highly flammable liquid and vapour. May be fatal if swallowed and enters airways. Causes skin irritation. May cause drowsiness or dizziness. Suspected of damaging fertility or the unborn child. May cause damage to organs through prolonged or repeated exposure. Toxic to aquatic life with long lasting effects. 
+P statements: 
+Obtain special instructions before use. Keep away from heat/sparks/open flames/hot surfaces — No smoking. Avoid release to the environment. IF SWALLOWED: Immediately call a POISON CENTER or doctor/physician. IF ON SKIN (or hair): Remove/Take off immediately all contaminated clothing. Rinse skin with water/shower. Do NOT induce vomiting. 
+
+sulphuric acid 
+H statements: 
+May be corrosive to metals. 
+
+NaOH 
+H statements: 
+May be corrosive to metals. Causes severe skin burns and eye damage. 
+P statements: 
+Keep only in original container. Do not breathe dust/fume/gas/mist/vapours/spray. Wear protective gloves/protective clothing/eye protection/face protection. IF ON SKIN (or hair): Remove/Take off immediately all contaminated clothing. Rinse skin with water/shower. IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing. Immediately call a POISON CENTER or doctor/physician. IF IN EYES: Rinse cautiously with water for several min. Remove contact lenses, if present and easy to do. Continue rinsing. 
+
+Fe(CN)6 
+H statements: 
+Causes serious eye irritation. Toxic to aquatic life with long lasting effects. 
+P statements: 
+Wash … thoroughly after handling. Avoid release to the environment. Wear protective gloves/protective clothing/eye protection/face protection. IF IN EYES: Rinse cautiously with water for several min. Remove contact lenses, if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention. Collect spillage. 
+
+methane 
+H statements: 
+Extremely flammable gas. Contains gas under pressure; may explode if heated. 
+P statements: 
+Protect from sunlight.  
+
+iodine 
+H statements: 
+Harmful if swallowed. Harmful in contact with skin. Harmful if inhaled. Causes skin irritation. Causes serious eye irritation. May cause respiratory irritation. Causes damage to organs through prolonged or repeated exposure. Very toxic to aquatic life. 
+P statements: 
+Avoid release to the environment. Wear protective gloves/protective clothing/eye protection/face protection. IF SWALLOWED: Call a POISON CENTER or doctor/physician if you feel unwell. IF ON SKIN: Wash with plenty of soap and water. Call a POISON CENTER or doctor/physician if you feel unwell. IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing. Call a POISON CENTER or doctor/physician if you feel unwell. Get medical advice/attention if you feel unwell. 
+
+ammonia 
+H statements: 
+Contains gas under pressure; may explode if heated. Causes severe skin burns and eye damage. Toxic if inhaled. Very toxic to aquatic life with long lasting effects. 
+P statements: 
+Do not breathe dust/fume/gas/mist/vapours/spray. Avoid release to the environment. Wear protective gloves/protective clothing/eye protection/face protection. IF ON SKIN (or hair): Remove/Take off immediately all contaminated clothing. Rinse skin with water/shower. IF INHALED: Remove victim to fresh air and keep at rest in a position comfortable for breathing. Call a POISON CENTER or doctor/physician. IF IN EYES: Rinse cautiously with water for several min. Remove contact lenses, if present and easy to do. Continue rinsing. Immediately call a POISON CENTER or doctor/physician. 
+
