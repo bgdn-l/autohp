@@ -1,0 +1,5 @@
+*.vscode
+*.google-cookie
+*.prettierrc
+*.json
+*.ipynb
